@@ -24,7 +24,7 @@ BikeSpare Hub is a web-based spare parts shop management system designed to stre
 
 🛍️ Product Listings
 
-![Product Listings](https://github.com/user-attachments/assets/852c18c6-af49-4999-b159-9a1eaa48125e)  
+![Items](https://github.com/user-attachments/assets/852c18c6-af49-4999-b159-9a1eaa48125e)  
 
 🎉 Contributions & Feedback
 
