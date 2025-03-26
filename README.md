@@ -14,20 +14,18 @@ BikeSpare Hub is a web-based spare parts shop management system designed to stre
 
 🖼️ Screenshots
 
-🏠 Dashboard (Home Page)
+🏠 Home Page (Index)
 
+<img width="536" alt="index" src="https://github.com/user-attachments/assets/42dbce35-e432-4890-9bce-e20e339c8a4e" />
 
 
 🔑 Login Page
 
+<img width="896" alt="Login" src="https://github.com/user-attachments/assets/36cbedd4-4760-47a1-a477-795f50513a9e" />
 
+🛍️ Product Listings
 
-🛒 Inventory & Sales Management
-
-
-
-📈 Billing & Reports
-
+<img width="336" alt="items" src="https://github.com/user-attachments/assets/852c18c6-af49-4999-b159-9a1eaa48125e" />
 
 
 🎉 Contributions & Feedback
